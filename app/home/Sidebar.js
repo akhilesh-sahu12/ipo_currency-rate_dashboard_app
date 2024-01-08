@@ -44,15 +44,15 @@ const Sidebar = () => {
             <Text style={styles.sidebarText}>Home</Text>
           </TouchableOpacity>
           <TouchableOpacity
-            onPress={() => navigateToScreen("dashboard")}
+            onPress={() => navigateToScreen("IPOs")}
             style={styles.sidebarItem}
           >
             <Icon name="grid" size={24} color="white" style={styles.icon} />
-            <Text style={styles.sidebarText}>IPOs & Currency Rate</Text>
+            <Text style={styles.sidebarText}>IPOs </Text>
           </TouchableOpacity>
 
           <TouchableOpacity
-            onPress={() => navigateToScreen("charts")}
+            onPress={() => navigateToScreen("CurrencyRates")}
             style={styles.sidebarItem}
           >
             <Icon
@@ -61,7 +61,7 @@ const Sidebar = () => {
               color="white"
               style={styles.icon}
             />
-            <Text style={styles.sidebarText}>Charts</Text>
+            <Text style={styles.sidebarText}>Currency Rates</Text>
           </TouchableOpacity>
 
           <TouchableOpacity
@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
     alignItems: "flex-start",
     padding: 20,
     backgroundColor: "#2c3e50",
-    width: "40%",
+    width: "45%",
     position: "absolute",
     top: 0,
     bottom: 0,
