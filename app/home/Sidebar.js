@@ -37,7 +37,7 @@ const Sidebar = () => {
       {showIconNames && (
         <View>
           <TouchableOpacity
-            onPress={() => navigateToScreen("home")}
+            onPress={() => navigateToScreen("Home")}
             style={styles.sidebarItem}
           >
             <Icon name="home" size={24} color="white" style={styles.icon} />
