@@ -99,6 +99,8 @@ Happy coding!
 
 ## Screenshots
 
+![App Screenshot](https://github.com/akhilesh-sahu12/ipo_currency-rate_dashboard_app/blob/master/assets/favicon.png)
+
 ![App Screenshot](https://github.com/akhilesh-sahu12/ipo_currency-rate_dashboard_app/blob/master/screenshots/1.jpeg)
 ![App Screenshot](https://github.com/akhilesh-sahu12/ipo_currency-rate_dashboard_app/blob/master/screenshots/4.jpeg)
 ![App Screenshot](https://github.com/akhilesh-sahu12/ipo_currency-rate_dashboard_app/blob/master/screenshots/3.jpeg)
